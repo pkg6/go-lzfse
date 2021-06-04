@@ -9,7 +9,7 @@
 ## Install
 
 ```bash
-go get github.com/blacktop/go-lzfse
+go get github.com/iineva/go-lzfse
 ```
 
 ## Examples
@@ -19,7 +19,7 @@ import (
     "io/ioutil"
     "log"
 
-    lzfse "github.com/blacktop/go-lzfse"
+    lzfse "github.com/iineva/go-lzfse"
     "github.com/pkg/errors"
 )
 
