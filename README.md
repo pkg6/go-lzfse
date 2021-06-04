@@ -6,14 +6,6 @@
 
 ---
 
-## Requirements
-
-### `macOS`
-
-```bash
-$ brew install lzfse
-```
-
 ## Install
 
 ```bash

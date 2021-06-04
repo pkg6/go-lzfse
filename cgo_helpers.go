@@ -6,7 +6,6 @@
 package lzfse
 
 /*
-#cgo LDFLAGS: -L/usr/local/Cellar/lzfse/1.0/lib -llzfse
 #include "lzfse.h"
 #include <stdlib.h>
 #include "cgo_helpers.h"
