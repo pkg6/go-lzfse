@@ -9,7 +9,7 @@
 ## Install
 
 ```bash
-go get github.com/iineva/go-lzfse
+go get github.com/pkg6/go-lzfse
 ```
 
 ## Examples
@@ -19,7 +19,7 @@ import (
     "io/ioutil"
     "log"
 
-    lzfse "github.com/iineva/go-lzfse"
+    lzfse "github.com/pkg6/go-lzfse"
     "github.com/pkg/errors"
 )
 
@@ -42,6 +42,7 @@ func main() {
 ## Credit
 
 - <https://github.com/zchee/go-lzfse>
+- https://github.com/iineva/go-lzfse
 
 ## License
 
